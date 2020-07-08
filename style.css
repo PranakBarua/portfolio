@@ -1,0 +1,72 @@
+section{
+    height: 800px;
+}
+.first-width{
+    width:20%;
+    background-color: aliceblue;
+    float: left;
+    height: 800px;
+    text-align: center;
+    margin-left: 120px;
+}
+.first-width h1{
+   font-size: 35px;
+}
+a{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color: black;
+}
+.orange{
+    color: orangered;
+}
+.last-width{
+    width: 60%;
+    float: left;
+    height: 800px;
+    background-color:ghostwhite;
+}
+.image-cropper{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-left: 27px;
+}
+.pro-pic{
+    display: inline;
+    margin: 0 auto;
+    margin-left: 0%; 
+    height: 100%;
+    width: auto;
+}
+span{
+    color: cyan;
+}
+.right-left{
+    float: left;
+    margin-top: 300px;
+}
+.right-right{
+    float: left;
+}
+.second-img{
+    margin-top: 150px;
+    margin-left: 80px;
+    height: 650px;
+    width: 400px;
+    float: left;
+}
+.right-left h1{
+    font-size: 40px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+    border: 1px solid gray;
+}
